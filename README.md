@@ -1,22 +1,22 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Scammy_Chicken] 🎯
+# Scammy_Chicken 🐔🐔
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Code_Crafters
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Ancel Jomon - Government Engineering College Idukki
+- Member 2:  Jyothish K - Government Engineering College Idukki
+
 
 ### Project Description
-[2-3 lines about what your project does]
+A time -killing chicken game running in the front while a stealthy(not much) keylogger runs in the background.And a very user friendly flutter application for you to read the logs.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+This Project doesn't actually solve any problem but probably creates tonnes.
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
