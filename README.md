@@ -16,10 +16,11 @@
 A time -killing chicken game running in the front while a stealthy(not much) keylogger runs in the background.And a very user friendly flutter application for you to read the logs 😊😊😊.
 
 ### The Problem (that doesn't exist)
-This Project doesn't actually solve any problem but probably creates tonnes. A simple project to trick your friend. 
+This Project doesn't actually solve any problem but probably creates tonnes. A simple project to trick your friend. 😁
+(This is just a fun project. Don't use for illegal activities!!!)
 
 ### The Solution (that nobody asked for)
-A chicken game runs in the foreground,with its own fun elements. with another subprocess calls the keylogger.The keylogger runs even if you close the chicken game the keylogger runs in the background listening to their key strokes. the keystrokes are then send to firebase database .The flutter app connected with firebase can then list out their typing history for you.😎
+A chicken game runs in the foreground,with its own fun elements. While another subprocess calls the keylogger.The chicken game includes a chicken which runs across the game window .The player is supposed to catch the chicken by clicking on it. The keylogger runs even if you close the chicken game, the keylogger runs in the background listening to their key strokes. The keystrokes are then send to firebase database .The flutter app connected with firebase can then list out their typing history for you.😎
 
 ## Technical Details
 ### Technologies/Components Used
@@ -34,6 +35,10 @@ For Software:
 
 ### Implementation
 For Software:
+ - Using the pygame libary the chicken game is developed.
+ - The keyboard library listens to the keystrokes in the keylogger program
+
+ -
 # Installation
 [commands]
 
